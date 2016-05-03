@@ -1,2 +1,3 @@
 # hello-world
-I'm just following a tutorial (last updated May 3, 2016)  
+
+I'm a writer/artist who is learning web design. I currently have some CSS, HTML, and Javascript under my belt. I also know Python.  
